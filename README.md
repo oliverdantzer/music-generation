@@ -35,8 +35,16 @@ Result for Piano Sonata in C minor, D. 958 by Schubert (Played with grand piano)
  - `numpy`
  - `midiutil`
  - `jupyter notebook`
+ 
+### Required dataset
+ - Navigate to source code folder
+ - Create folder `input`
+ - Dowload [musicnet](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet), extract to `./input/`
+ - Download [musicnet_metadata.csv](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet_metadata.csv), extract to `./input/musicnet`
+ 
 
 ### Running
+ - Navigate to source code folder
  - Run jupyter notebook
  - Open ai_generated_midi.ipynb
  - Edit song_id to a song id in the musicnet dataset of your choice
