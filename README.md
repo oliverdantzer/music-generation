@@ -31,11 +31,11 @@ Result for Piano Sonata in C minor, D. 958 by Schubert (Played with grand piano)
 ## To run things
 ### Requirements
 Python packages:
--`sklearn`
-`pandas`
-`numpy`
-`midiutil`
-`jupyter notebook`
+ - `sklearn`
+ - `pandas`
+ - `numpy`
+ - `midiutil`
+ - `jupyter notebook`
 
 ### Running
  - Run jupyter notebook
