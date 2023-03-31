@@ -34,7 +34,7 @@ Result for Piano Sonata in C minor, D. 958 by Schubert (Played with grand piano)
  - `pandas`
  - `numpy`
  - `midiutil`
- - `jupyter notebook`
+ - `jupyter-notebook`
  
 ### Required dataset
  - Navigate to source code folder
