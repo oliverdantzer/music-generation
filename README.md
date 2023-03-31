@@ -39,8 +39,8 @@ Result for Piano Sonata in C minor, D. 958 by Schubert (Played with grand piano)
 ### Required dataset
  - Navigate to source code folder
  - Create folder `input`
- - Dowload [musicnet](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet), extract to `./input/`
- - Download [musicnet_metadata.csv](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet_metadata.csv), extract to `./input/musicnet`
+ - Dowload [`musicnet`](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet), extract to `./input/`
+ - Download [`musicnet_metadata.csv`](https://www.kaggle.com/datasets/imsparsh/musicnet-dataset?select=musicnet_metadata.csv), extract to `./input/musicnet/`
  
 
 ### Running
