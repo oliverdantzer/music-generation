@@ -29,8 +29,7 @@ https://user-images.githubusercontent.com/104586131/229006637-afce49b5-bcaf-42e4
 Result for Piano Sonata in C minor, D. 958 by Schubert (Played with grand piano)
 
 ## To run things
-### Requirements
-Python packages:
+### Required packages
  - `sklearn`
  - `pandas`
  - `numpy`
